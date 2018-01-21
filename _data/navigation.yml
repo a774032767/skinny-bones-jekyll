@@ -16,15 +16,15 @@
 
 
 
- - title: 学习笔记
-   url: /posts/
-   excerpt: 网页制作与设计以及信息可视化的一点小笔记 
+ - title: web学习笔记
+   url: /posts/rwd
+   excerpt: 网页制作小笔记 
    image: navigation 3.jpg 
    
  
  
  
- - title: 关于我
-   url: /mine/
-   excerpt:
+ - title: 信息可视化笔记
+   url: /posts/infovis
+   excerpt: 信息可视化小笔记
    image: navigation 4.jpg 
